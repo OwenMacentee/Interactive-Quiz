@@ -1,0 +1,37 @@
+/* BACKGROUND COLOURS */
+
+body{
+    background: #0b0c10;
+
+}
+
+.intro{
+    background: #0b0c10;
+}
+
+.quiz{
+    background: #1f2833;
+}
+
+.result{
+    background: #c5c6c7;
+}
+
+/* TEXT COLOUR */
+
+h2, p{
+    color: #66fcf1;
+}
+
+.btn {
+    color: #0b0c10;
+}
+
+.lead p {
+    color: #1f2833;
+}
+
+.lead span{
+    color: #0b0c10;
+}
+
